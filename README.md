@@ -1,4 +1,4 @@
-Netlinked
+Futaconnect
 =========
 
  This project is about a social network site. This is a near clone of facebook . It uses facebox to create them.
